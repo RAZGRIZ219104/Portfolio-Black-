@@ -21,9 +21,9 @@ const Experience: React.FC<{}> = () => {
         <p className="text-gray-300 pt-5">
           I optimized website loading speed by 7% through performance
           enhancements and code optimization. Additionally, I developed and
-          maintained front-end features for the company's web applications. I
-          also conducted regular code reviews and provided feedback to improve
-          code quality. <br />
+          maintained front-end features for the company`&apos;`s web
+          applications. I also conducted regular code reviews and provided
+          feedback to improve code quality. <br />
           <br />
           Furthermore, I tested and debugged code to ensure optimal performance
           and functionality. In collaboration with the UX/UI team, I redesigned
