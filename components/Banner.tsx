@@ -14,12 +14,12 @@ const Banner: React.FC<{}> = () => {
             height={150}
             width={150}
             className="rounded-full"
-            alt="Vladyslav Stebnitskyi"
+            alt="Abel Tony"
           />
         </div>
 
         <div className="flex flex-col gap-6 mt-6 cursor-pointer animate-bounce tracking-tighter text-7xl font-semibold text-white max-w-[600px] w-auto h-auto">
-          Vladyslav Stebnitskyi!
+          Abel Tony!
         </div>
         <p className="text-2xl font-medium tracking-tighter  text-gray-300 max-w-[600px]">
           I do Code &{" "}
@@ -29,14 +29,12 @@ const Banner: React.FC<{}> = () => {
           🍿
         </p>
         <p className="text-md text-gray-200 my-5 max-w-[600px]">
-          Passionate Software Engineer with a focus on frontend development,
+          Passionate Software Engineer with a focus on Full-Stack development,
           dedicated to crafting elegant and user-friendly web applications.
         </p>
         <div className="text-md flex justify-center">
           <button
-            onClick={() =>
-              window.open("mailto:vladislavstebnickij45@gmail.com")
-            }
+            onClick={() => window.open("mailto:privateiasinteger@gmail.com")}
             className=" z-[1]     padding-20  hover:bg-white rounded-3xl  text-white font-semibold hover:text-black py-3 px-10  border-[0.1px] border-white hover:border-transparent "
           >
             Contact Me
