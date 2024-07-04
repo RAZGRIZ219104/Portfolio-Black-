@@ -29,11 +29,7 @@ const Banner: React.FC<{}> = () => {
           🍿
         </p>
         <p className="text-md text-gray-200 my-5 max-w-[600px]">
-          Accomplished Full-Stack Developer with 7-year track record of
-          delivering high-performance, scalable, user-centric web apps.
-          Demonstrated expertise in elevating website metrics by 25%, deploying
-          cutting-edge data systems, and timely, cost-effective project
-          delivery.
+          Code is like humor. When you have to explain it, it's bad.
         </p>
         <div className="text-md flex justify-center">
           <button

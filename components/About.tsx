@@ -13,16 +13,13 @@ const About: React.FC<{}> = () => {
           EXPLORE NOW
         </p>
         <p className="text-gray-300 text-center ">
-          Frontend developer passionate about creating seamless user experiences
-          with HTML, CSS, JavaScript, React, and Next. Proficient in responsive
-          design, web performance optimization, translating design concepts into
-          functional, visually appealing websites and applications.
+          Accomplished Full-Stack Developer with 7-year track record of
+          delivering high-performance, scalable, user-centric web apps.
           <br />
           <br />
-          Collaborates effectively with cross-functional teams to deliver
-          innovative solutions and drive user engagement. Committed to
-          continuous learning and staying updated on industry trends for
-          cutting-edge frontend solutions.
+          Demonstrated expertise in elevating website metrics by 25%, deploying
+          cutting-edge data systems, and timely, cost-effective project
+          delivery.
         </p>
       </div>
     </section>
