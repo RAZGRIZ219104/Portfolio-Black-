@@ -1,6 +1,6 @@
 export const Social_Icons = [
   {
-    link: "https://github.com/ibrahimmemonn",
+    link: "https://github.com/ProScriptSlinger",
     image: "/Github.svg",
     alt: "Github",
   },
@@ -10,7 +10,7 @@ export const Social_Icons = [
   //   alt: "Instagram",
   // },
   {
-    link: "https://www.linkedin.com/in/владислав-стебницкий-5864062b7",
+    link: "https://www.linkedin.com/in/abel-tony-302816317/",
     image: "/LinkedIn.svg",
     alt: "LinkedIn",
   },

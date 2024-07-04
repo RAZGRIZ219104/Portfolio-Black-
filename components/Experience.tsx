@@ -12,48 +12,65 @@ const Experience: React.FC<{}> = () => {
       <div className=" container mx-auto 2xl ">
         <div className="flex  flex-row justify-between pt-5">
           <p className="text-gray-300 ">
-            <span className="font-semibold">DTX /</span> FRONT-END DEVELOPER
+            <span className="font-semibold">Duke Energy /</span> SENIOR
+            FULL-STACK DEVELOPER
           </p>
-          <p className="text-gray-300">
-            04/2017 - 07/2022, New York, United States
-          </p>
+          <p className="text-gray-300">09/2019 - 01/2023, New York, NY</p>
         </div>
         <p className="text-gray-300 pt-5">
-          I optimized website loading speed by 7% through performance
-          enhancements and code optimization. Additionally, I developed and
-          maintained front-end features for the company`&apos;`s web
-          applications. I also conducted regular code reviews and provided
-          feedback to improve code quality. <br />
-          <br />
-          Furthermore, I tested and debugged code to ensure optimal performance
-          and functionality. In collaboration with the UX/UI team, I redesigned
-          key user interfaces, leading to a 13% improvement in user
-          satisfaction. Lastly, I contributed to a major website redesign
-          project, resulting in an 11% increase in overall site traffic and
-          engagement.
+          Accomplished Full-Stack Developer with expertise in developing web
+          applications and RESTful APIs using Angular, Nest.js, ASP.NET,
+          SOAP/REST Services, and leveraging various front-end and back-end
+          technologies, design patterns, and DevOps practices to build easily
+          maintainable, scalable, and user-centric applications. Demonstrated
+          proficiency in data management, including designing Snowflake data
+          models, implementing data pipelines and ETL workflows using Apache
+          Airflow, developing optimized SQL queries and data models, and
+          utilizing D3.js for data visualization, while also managing
+          application deployment on cloud platforms like Amazon AWS and Google
+          AppEngine.
         </p>
         <div className="flex  flex-row justify-between pt-10">
           <p className="text-gray-300 ">
-            <span className="font-semibold">Peiko /</span> SENIOR FRONT-END
+            <span className="font-semibold">Born Group /</span> FULL-STACK
             DEVELOPER
           </p>
-          <p className="text-gray-300">
-            08/2022 - 01/2024, New York, United States
-          </p>
+          <p className="text-gray-300">12/2017 - 11/2019, Charlotte, NC</p>
         </div>
         <p className="text-gray-300 pt-5">
-          I spearheaded a front-end architecture overhaul, which resulted in a
-          12% boost in website performance. Additionally, I elevated team
-          productivity by XX% through mentoring junior developers. Furthermore,
-          I drove a 21% increase in user engagement by collaborating closely
-          with the design team. I also slashed bugs by 8% with a rigorous
-          testing strategy, ensuring top-notch code quality. In addition, I
-          revolutionized platform functionality and user satisfaction by
-          seamlessly integrating third-party APIs. Lastly, I pioneered a
-          responsive design framework to ensure a flawless user experience
-          across all devices.
+          Engaged with client stakeholders to gather requirements, estimate user
+          stories, and translate application storyboards and use cases into
+          functional specifications, while developing sub-applications using
+          Nest.js for the backend and Angular for the frontend, incorporating
+          various technologies and adhering to coding best practices.
+          Demonstrated proficiency in integrating SOAP/REST Services, managing
+          build and deployment processes through Jenkins and AWS, conducting
+          thorough testing, providing support to the Operations team, developing
+          Angular JavaScript frameworks, creating and maintaining cloud
+          applications, and collaborating with end-users to redesign legacy
+          applications using the latest technology stack including Nest.js,
+          Angular, and related technologies.
         </p>
-        <div className="flex-wrap flex sm:flex-row ">
+        <div className="flex  flex-row justify-between pt-10">
+          <p className="text-gray-300 ">
+            <span className="font-semibold">Born Group /</span> BACK-END
+            DEVELOPER
+          </p>
+          <p className="text-gray-300">01/2017 - 11/2017, Chicago, IL</p>
+        </div>
+        <p className="text-gray-300 pt-5">
+          Worked closely with the team to understand requirements, contribute to
+          design and architecture, and write efficient, reusable code using .NET
+          programming languages such as C# and VB.NET, while also assisting in
+          testing, deploying, and improving existing software applications,
+          creating and maintaining documentation, and providing technical
+          support for web, desktop, or mobile applications developed using .NET.
+          Demonstrated versatility in various aspects of the software
+          development life cycle, including requirements gathering, design,
+          development, testing, deployment, and maintenance, showcasing strong
+          technical skills and a collaborative approach.
+        </p>
+        <div className="flex-wrap flex sm:flex-row gap-1">
           <div className="bg-transparent  mt-5 mr-2 cursor-pointer  rounded-3xl  text-white py-2 px-5  border border-[#2E2E2E] w-max">
             React
           </div>
@@ -83,6 +100,27 @@ const Experience: React.FC<{}> = () => {
           </div>
           <div className="bg-transparent  mt-5 cursor-pointer  rounded-3xl  text-white py-2 px-5  border border-[#2E2E2E] w-max">
             AWS
+          </div>
+          <div className="bg-transparent  mt-5 cursor-pointer  rounded-3xl  text-white py-2 px-5  border border-[#2E2E2E] w-max">
+            web3.js
+          </div>
+          <div className="bg-transparent  mt-5 cursor-pointer  rounded-3xl  text-white py-2 px-5  border border-[#2E2E2E] w-max">
+            Nodejs Framework
+          </div>
+          <div className="bg-transparent  mt-5 cursor-pointer  rounded-3xl  text-white py-2 px-5  border border-[#2E2E2E] w-max">
+            CI/CD
+          </div>
+          <div className="bg-transparent  mt-5 cursor-pointer  rounded-3xl  text-white py-2 px-5  border border-[#2E2E2E] w-max">
+            C#
+          </div>
+          <div className="bg-transparent  mt-5 cursor-pointer  rounded-3xl  text-white py-2 px-5  border border-[#2E2E2E] w-max">
+            .Net
+          </div>
+          <div className="bg-transparent  mt-5 cursor-pointer  rounded-3xl  text-white py-2 px-5  border border-[#2E2E2E] w-max">
+            Django
+          </div>
+          <div className="bg-transparent  mt-5 cursor-pointer  rounded-3xl  text-white py-2 px-5  border border-[#2E2E2E] w-max">
+            Fast Api
           </div>
         </div>
       </div>
