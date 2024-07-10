@@ -10,13 +10,13 @@ export const Social_Icons = [
   //   alt: "Instagram",
   // },
   {
-    link: "https://www.linkedin.com/in/abel-tony-302816317/",
+    link: "https://www.linkedin.com/in/abel-tony-998776318",
     image: "/LinkedIn.svg",
     alt: "LinkedIn",
   },
-  // {
-  //   link: "https://twitter.com/Ibrahimmemonnn",
-  //   image: "/Twitter.svg",
-  //   alt: "Twitter",
-  // },
+  {
+    link: "https://x.com/AbelTony668",
+    image: "/Twitter.svg",
+    alt: "Twitter",
+  },
 ];
