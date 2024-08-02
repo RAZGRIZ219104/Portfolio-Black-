@@ -29,7 +29,7 @@ const Banner: React.FC<{}> = () => {
           🍿
         </p>
         <p className="text-md text-gray-200 my-5 max-w-[600px]">
-          Code is like humor. When you have to explain it, it's bad.
+          Code is like humor. When you have to explain it, it&apos;s bad.
         </p>
         <div className="text-md flex justify-center">
           <button
