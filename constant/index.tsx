@@ -4,18 +4,18 @@ export const Social_Icons = [
     image: "/Github.svg",
     alt: "Github",
   },
-  // {
-  //   link: "https://www.instagram.com/ibii.memon/?hl=en",
-  //   image: "/Instagram.svg",
-  //   alt: "Instagram",
-  // },
+  {
+    link: "https://www.facebook.com/profile.php?id=61561674492097",
+    image: "/facebook.svg",
+    alt: "facebook",
+  },
   {
     link: "https://www.linkedin.com/in/abel-tony-998776318",
     image: "/LinkedIn.svg",
     alt: "LinkedIn",
   },
   {
-    link: "https://x.com/AbelTony668",
+    link: "https://x.com/AbelTony31 ",
     image: "/Twitter.svg",
     alt: "Twitter",
   },
