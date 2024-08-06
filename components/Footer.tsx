@@ -9,27 +9,13 @@ const Footer: React.FC<{}> = () => {
       <div className="pb-10 justify-center flex ">
         {Social_Icons.map((social) => {
           return (
-            <Link
-              href={social.link}
-              rel="noopener noreferrer"
-              target="_blank"
-              key={social.alt}
-              className="z-[1]"
-            >
-              <Image
-                src={social.image}
-                height={30}
-                width={30}
-                className="mx-5"
-                alt={social.alt}
-              />
+            <Link href={social.link} rel="noopener noreferrer" target="_blank" key={social.alt} className="z-[1]">
+              <Image src={social.image} height={30} width={30} className="mx-5" alt={social.alt} />
             </Link>
           );
         })}
       </div>
-      <p className="text-gray-300 text-center text-sm">
-        Created with ❤️ using Next.js
-      </p>
+      <p className="text-gray-300 text-center text-sm">Created with ❤️ using Next.js</p>
     </div>
   );
 };
